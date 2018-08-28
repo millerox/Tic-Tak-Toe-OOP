@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author student
+ * @author Oksana Miller
  */
 public class XOMediator 
 {
